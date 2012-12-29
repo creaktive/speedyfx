@@ -15,3 +15,8 @@
 *.exe
 *.out
 *.app
+speedyfx
+
+# Test data
+test
+enwik[89]
